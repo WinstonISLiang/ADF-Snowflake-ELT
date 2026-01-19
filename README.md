@@ -20,7 +20,7 @@ To keep the focus on architecture and outcomes (and to respect data sharing cons
 
 ## Architecture
 
-![Data Architecture](./images/nz-market-rent-architecture.png)
+![Data Architecture](./documents/data-architecture.png)
 
 ### Flow (high level)
 1. **Source (Rental Market Data Provider)**  
